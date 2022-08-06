@@ -1,4 +1,4 @@
-# Dieharder-Test-Results
+# Dieharder Test Results
 
 This is a repository of Dieharder test results, intended to be used for comparison purposes.  The intent is to use this to provide free public access to tests done in "Test to Destruction" mode, which take months to complete even for fast PRNGs on high end hardware, as a reference so that they don't need to be repeated each time someone new needs them.
 
