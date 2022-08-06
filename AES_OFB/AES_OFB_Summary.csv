@@ -1,5 +1,7 @@
-rng_name, rands/second, Seed 
-AES_OFB, 4.33e+07, 2790930429
+rng_name, rands/second, Seed,,,
+AES_OFB, 4.33e+07, 2790930429,,,
+
+-,-,-,-,-,-
 
 test_name, ntup, tsamples, psamples, p-value, Assessment
 diehard_birthdays, 0, 100, 76900, 0.00000088, FAILED
